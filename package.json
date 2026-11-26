@@ -4,5 +4,6 @@
   "type": "module",
   "description": "One Word, First Thought - make.fun competition entry",
   "license": "MIT",
-  "main": "main.ts"
+  "main": "main.ts",
+  "keywords": ["makefun", "competition", "one-word", "caffeine"]
 }
