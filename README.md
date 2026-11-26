@@ -17,3 +17,7 @@ The program writes exactly one word to `/output/entry.txt`. That's it.
 ## License
 
 MIT
+
+---
+
+*Built with make.fun competition harness.*
