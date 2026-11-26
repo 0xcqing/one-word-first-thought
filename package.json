@@ -1,0 +1,8 @@
+{
+  "name": "one-word-first-thought",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "One Word, First Thought - make.fun competition entry",
+  "license": "MIT",
+  "main": "main.ts"
+}
